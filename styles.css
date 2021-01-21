@@ -55,7 +55,7 @@ margin: auto;
     text-align: center;
     padding-top: 1rem;
     color: var(--primary-color);
-    font-size: 18pt;
+    font-size: 14pt;
     padding-left: 2.5rem;
 }
 .header .header-heading .heading-inverted
@@ -125,7 +125,7 @@ margin: auto;
 
 .footer .link .link-image
 {
-    max-width: 4%;;
+    max-width: 5%;;
 width: 350px;
 display: block;
 margin: auto;
