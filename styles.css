@@ -4,6 +4,11 @@
     --dark-pink: #EF4444;
     --off-white: #E5E7EB;
 }
+body
+{
+    margin: 0rem;
+    padding: 0rem;
+}
 .navigation
 {
     background-color: var(--primary-color);
@@ -14,6 +19,7 @@
 .navigation .nav-developer
 {
 font-weight: bold;
+padding-top: 1rem;
 }
 .list-non-bullet
 {
